@@ -1,0 +1,7 @@
+{
+  "name": "Smart App",
+  "description": "An all-in-one application showcasing the power of the Gemini API, including chat, real-time voice conversations, image generation and editing, text-to-speech, and fast text responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
